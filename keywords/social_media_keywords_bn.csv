@@ -1,0 +1,30 @@
+keyword,severity,category
+ব্ল্যাকমেল,critical,social_media
+ফটো লিক,critical,social_media
+ফেইসবুক,critical,social_media
+ইন্সটা ,critical,social_media
+ন্যুড ,critical,social_media
+লেংড়া,critical,social_media
+ভাইরাল,critical,social_media
+পাবলিক,high,social_media
+স্ক্রিনশট,high,social_media
+ভিডিও,high,social_media
+ছবি,high,social_media
+ওয়াটসঅ্যাপে,medium,social_media
+ফেসবুকে,medium,social_media
+লিক,medium,social_media
+পোস্ট,medium,social_media
+ইনস্টাগ্রামে,medium,social_media
+আপলোড,low,social_media
+শেয়ার,low,social_media
+শেষ,low,social_media
+রিলিজ,low,social_media
+সবাইরে দেখামু,low,social_media
+পোষ্ট ,low,social_media
+পোস্ট,low,social_media
+আপলোড ,low,social_media
+কৈয়াদিমু ,low,social_media
+ছাইরা,low,social_media
+অনলাইনে ,low,social_media
+নেটে ,low,social_media
+নেট ,low,social_media

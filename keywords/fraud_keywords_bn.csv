@@ -1,0 +1,42 @@
+keyword,severity,category
+ডিলিট,critical,fraud
+ফরমেট,critical,fraud
+টিপ্ দেন,critical,fraud
+লিঙ্ক,critical,fraud
+লিংক,critical,fraud
+ফ্রড,critical,fraud
+লুইট্যা,critical,fraud
+মিসা,critical,fraud
+চুরি,critical,fraud
+ঠকানো,high,fraud
+ঠকাইসে,high,fraud
+ঠকস,high,fraud
+ঘুষ,high,fraud
+পাসওয়ার্ড চুরি,high,fraud
+হ্যাকিং,high,fraud
+স্ক্যাম,high,fraud
+টাকা খাওয়া,high,fraud
+ফাঁসানো,high,fraud
+ফাসসি,high,fraud
+দুর্নীতি,medium,fraud
+বেআইনি,medium,fraud
+নকল,medium,fraud
+দুই নাম্বারি,medium,fraud
+ফিশিং,medium,fraud
+ডুপ্লিকেট,medium,fraud
+মিথ্যা বলা,medium,fraud
+মিসা,medium,fraud
+ধোঁকা,medium,fraud
+লুভি,low,fraud
+লালসা,low,fraud
+কাগজ জাল,low,fraud
+ফেইক নিউজ,low,fraud
+লিংক,low,fraud
+বেআইনি,low,fraud
+লুকায়া কাজ,low,fraud
+মাল,low,fraud
+লাখ,low,fraud
+কুঠী,low,fraud
+টেয়া,low,fraud
+ক্যোম ,medium,fraud
+ফাসায়,medium,fraud
