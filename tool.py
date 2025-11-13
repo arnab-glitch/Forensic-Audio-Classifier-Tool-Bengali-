@@ -36,7 +36,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(BASE_DIR, "config.json"), "r", encoding="utf-8") as jf:
     CONFIG = json.load(jf)
 
-# Model registry to hide actual HuggingFace repo name
+# Pre-Trained Model from HuggingFace
 ACOUSTIC_MODEL_MAP = {
     "Bangla_Acoustic_Model": "sazzadul/Shrutimala_Bangla_ASR"
 }
