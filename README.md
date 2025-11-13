@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue">
   <img src="https://img.shields.io/badge/PyTorch-ML_Framework-red">
   <img src="https://img.shields.io/badge/Tripura_Bengali-ASR_Model-green">
+  <img src="https://img.shields.io/badge/Author-Arnab%20Das-purple">
 </p>
 
 <br>
