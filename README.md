@@ -40,7 +40,7 @@ The **Forensic Audio Classifier Tool** is a machine-learning based forensic audi
 - Dhaka  
 - Noakhali  
 - Sylhet  
-- Bengali (Local)
+- Bengali (West Bengal)
 
 The tool automatically categorizes audio evidence into:
 
